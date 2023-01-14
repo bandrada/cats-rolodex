@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bandrada/cats-rolodex/static/css/main.5b1bb7f1.css",
+    "main.js": "/bandrada/cats-rolodex/static/js/main.328b9244.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/bandrada/cats-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/bandrada/cats-rolodex/index.html",
+    "main.5b1bb7f1.css.map": "/bandrada/cats-rolodex/static/css/main.5b1bb7f1.css.map",
+    "main.328b9244.js.map": "/bandrada/cats-rolodex/static/js/main.328b9244.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/bandrada/cats-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1bb7f1.css",
+    "static/js/main.328b9244.js"
+  ]
+}
